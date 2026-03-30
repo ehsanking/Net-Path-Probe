@@ -23,6 +23,12 @@ Net Path Probe is a **unified listener + tester** for broad, authorized server-t
 
 ## Quick start
 
+### Smart start
+
+```bash
+python3 smart_relay.py --target blocked-server.com --dns-server YOUR_SERVER_IP
+```
+
 ### Destination host
 
 ```bash
